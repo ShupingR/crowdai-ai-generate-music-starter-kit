@@ -4,8 +4,6 @@
 
 ### NOTES
 #### packages installed
-pip install MIDIUtil
-
-brew install timidity; timidity yourfile.mid
-
-pip install mido
+* pip install MIDIUtil
+* brew install timidity; timidity yourfile.mid
+* pip install mido
