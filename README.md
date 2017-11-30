@@ -42,7 +42,6 @@ git clone https://github.com/crowdAI/crowdai-ai-generate-music-starter-kit
 cd crowdai-ai-generate-music-starter-kit
 pip install -r requirements.txt
 python submit.py --api_key=<YOUR_CROWDAI_API_KEY> --midi_file=<PATH_TO_YOUR_MIDI_FILE>
-python submit.py --api_key=4c1228c55a2d9a4255a1a268ec3822bb --midi_file=<PATH_TO_YOUR_MIDI_FILE>
 ```
 
 # Author
