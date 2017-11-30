@@ -1,6 +1,6 @@
 ienv/*
 *.pyc
-
+.idea
 # Compiled source #
 ###################
 *.com
