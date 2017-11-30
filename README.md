@@ -48,6 +48,6 @@ python submit.py --api_key=4c1228c55a2d9a4255a1a268ec3822bb: --midi_file=<PATH_T
 # packages which I installed
 pip install MIDIUtil
 brew install timidity; timidity yourfile.mid
-
+pip install mido
 # Author
 S.P. Mohanty <sharada.mohanty@epfl.ch>
