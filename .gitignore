@@ -1,6 +1,7 @@
 ienv/*
 *.pyc
 .idea
+submit.sh
 # Compiled source #
 ###################
 *.com
