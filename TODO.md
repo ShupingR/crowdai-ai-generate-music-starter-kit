@@ -1,6 +1,6 @@
 ### TODO
-1. Figure out how to generate single track type 0 midi file
-2. LSTM in pytorch for music generation
+1. Figure out how to generate single track type 0 midi file -- Havent heard reply yet
+2. Check out https://magenta.tensorflow.org/2016/06/10/recurrent-neural-network-generation-tutorial
 
 ### NOTES
 #### packages installed
